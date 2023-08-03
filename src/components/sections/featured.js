@@ -37,7 +37,7 @@ const StyledProjectName = styled.h5`
   margin: 0 0 20px;
   color: ${colors.lightestSlate};
   ${media.tablet`font-size: 24px;`};
-  ${media.thone`color: ${colors.white};`};
+  ${media.thone`color: ${colors.lightestSlate};`};
   a {
     ${media.tablet`display: block;`};
   }
