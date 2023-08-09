@@ -10,7 +10,6 @@ url: ''
 
 - Established smooth data exchange between the 3 microservices via RESTful APIs, enabling users to rate and review movies
 
-- Implemented version control using Git, resulting in a 50% reduction in code conflicts and ensuring code integrity within the
-development team.
+- Implemented version control using Git, resulting in a 50% reduction in code conflicts and ensuring code integrity within the development team.
 
 
