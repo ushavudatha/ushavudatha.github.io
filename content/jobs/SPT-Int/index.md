@@ -6,8 +6,11 @@ range: 'Aug 2020 - Jan 2021'
 url: ''
 ---
 
-- Developed a diabetic level monitoring model, using ETL processes to retrieve in-depth information, resulting in 89% accuracy
+- Created a movie rating website with seamless intercommunication between 3 microservices (2 producers, 1 consumer)
 
-- Integrated RESTful API services to enhance data privacy and security, yielding a 30% improvement
+- Established smooth data exchange between the 3 microservices via RESTful APIs, enabling users to rate and review movies
 
-- Achieved a cost reduction of 25% in healthcare expenses by reducing unnecessary tests and treatments
+- Implemented version control using Git, resulting in a 50% reduction in code conflicts and ensuring code integrity within the
+development team.
+
+

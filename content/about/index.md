@@ -2,17 +2,18 @@
 title: 'About Me'
 avatar: 'me.jpg'
 skills:
-  - Python
   - Java
+  - Python
+  - Spring boot
+  - Microservices
+  - Hibernate
   - C/C++
   - D3.js
   - SQL
-  - Machine Learning
-  - Natural Language Processing
   - Scrum
 ---
 
-I enjoy on working with cutting-edge technologies, diving into the exciting realms of Competitive Programming, Natural Language Processing (NLP) and Machine Learning (ML). It's like unraveling a never-ending mystery, and I absolutely love it!
+I enjoy on working with cutting-edge technologies, diving into the exciting realms of Competitive Programming, JAVA, Python. It's like unraveling a never-ending mystery, and I absolutely love it!
 
 I've also been recognized on a national level for my technical skills, securing top honors in esteemed technical symposiums. Oh, and let me tell you a little secret - I was crowned the top performer in [HackwithINFY'20](https://www.infosys.com/careers/hackwithinfy/2020.html), competing among an astounding 150,000 students!
 

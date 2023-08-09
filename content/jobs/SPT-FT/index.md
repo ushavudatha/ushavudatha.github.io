@@ -6,10 +6,10 @@ range: 'Jan 2021 - Jan 2022'
 url: ''
 ---
 
-- Revolutionized the performance and scalability of complex application by integrating PyYAML files for efficient sentiment prediction improving the accuracy from 60% to 92%. Architected and implemented NLP model using libraries nltk, PyYAML
+- Contributed to the back-end development of the client’s website by developing 15 RESTful microservices using Spring Boot, Hibernate to map objects to tables in a relational database(MySQL)
 
-- Initiated thorough code reviews, debugging, unit test and troubleshooting efforts with the use of tools such as JIRA and Git, resulting in continuous improvement and system stability, enhanced user experience and customer satisfaction
+- Optimized the existing code base and restructured it to reduce the average response time by 75% and Improved database performance, and loading speed by 25% through query optimization
 
-- Deployed a sentiment analysis model with an F1-score of 0.92 using Flask and Docker in a production environment
+- Demonstrated strong version control practices using Git, resulting in 50% reduction in code conflicts, ensuring code integrity
 
-- Utilized Agile methodology to facilitate cross-functional collaboration & gather requirements
+- Incorporated Daily Scrum meeting as a part of Agile Development methodology, optimized and resolved 50+ backend bugs
