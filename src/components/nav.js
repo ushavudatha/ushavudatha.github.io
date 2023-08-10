@@ -157,6 +157,7 @@ const StyledResumeButton = styled.a`
   ${mixins.smallButton};
   margin-left: 10px;
   font-size: ${fontSizes.smish};
+  background-color: black;
 `;
 
 const DELTA = 5;
