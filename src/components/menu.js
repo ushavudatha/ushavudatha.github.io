@@ -79,6 +79,7 @@ const ResumeLink = styled.a`
   margin: 10% auto 0;
   width: max-content;
   background-color: black;
+  transition: background-color 0.2s ease-in-out;
 `;
 
 const Menu = ({ menuOpen, toggleMenu }) => {
