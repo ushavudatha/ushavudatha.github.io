@@ -10,6 +10,6 @@ url: ''
 
 - Established smooth data exchange between the 3 microservices via RESTful APIs, enabling users to rate and review movies
 
-- Demonstrated commitment to continuous learning by completing 20+ hours of Java and Spring Boot online courses
+- Attained 20% fewer vulnerabilities by implementing secure user registration and login using Spring Security (OAuth 2.0)
 
 
