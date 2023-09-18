@@ -9,6 +9,8 @@ buttonText: 'Hire Me'
 
 👩‍💻 I worked as a Software Engineer at Sperry Technologies and as a Graduate Teaching Assistant at Stony Brook University.
 
+🤝 [#GHC23 (in person)](https://ghc.anitab.org/) | [#RTC](https://rewritingthecode.org/) | [#GWC](https://girlswhocode.com/)
+
 I'm now seeking a full-time role where I can contribute my skills in coding.
 
 Let's code the future together!
