@@ -6,6 +6,6 @@ range: 'July 2023 - Present'
 url: ''
 ---
 
-- Built a Dashboard, which tracks different metrics of multiple University Research Projects by writing scripts to fetch the data, preprocess and show visualizations, achieving a 30% reduction in the decision-making time of the department
+- Developed a cloud-based Reddit API application that led to a substantial 40% reduction in data processing time by efficiently extracting, transforming, and loading data into a central data warehouse.
 
-- Designed, implemented and maintained Database (SQL) schema using Microsoft Access as a Database Analyst for Stony Brook Hospital which eased the administration of the out-patient department having more than 1000 employees
+- Implemented scalable data storage on Amazon S3 for efficient organization and tracking of diverse data sources. Realized a 50% improvement in data visualization capabilities, enabling more informed decision-making and insights into US voting patterns.

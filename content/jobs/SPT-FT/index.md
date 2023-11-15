@@ -6,10 +6,10 @@ range: 'Jan 2021 - Jan 2022'
 url: ''
 ---
 
-- Contributed to the enhancement of client’s website back-end, spearheading the creation of 15+ RESTful microservices using Spring Boot and Hibernate to seamlessly map objects to relational database tables(MySQL)
+- Developed a comprehensive Course Information System (CIS) using Java and Spring Boot, enabling efficient management of courses, users, registrations, communication, reporting, and integration with other systems.
 
-- Optimized the existing code base, restructured it to reduce the average response time by 75% while enhancing database performance and loading speed by 25% through strategic query optimization and refining Spring Boot configuration
+- Implemented Agile methodology, Improved the applications lifetime by reducing complexities, duplications and potential bugs in the code by integrating SonarQube for all the API’s and increased the unit test coverage by 40%.
 
-- Demonstrated strong version control practices using Git, resulting in 50% reduction in code conflicts, ensuring code integrity
+- Orchestrated MySQL database design, leading to 30% increase in data management efficiency, empowering admins with advanced reporting on enrollments, user activity & system metrics. Practiced test-driven development throughout the project lifecycle.
 
-- Incorporated Daily Scrum meeting as a part of Agile methodology, optimized & resolved 50+ critical bugs identified during testing
+- Worked on Swagger API and auto-generated documentation for the REST calls present in all the API’s which saved 30% of the time of developers and testers. Demonstrated strong version control practices using Git, resulting in 50% reduction in code conflicts, ensuring clean code integrity.

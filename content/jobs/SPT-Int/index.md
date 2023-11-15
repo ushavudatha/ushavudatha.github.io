@@ -12,4 +12,5 @@ url: ''
 
 - Attained 20% fewer vulnerabilities by implementing secure user registration and login using Spring Security (OAuth 2.0)
 
-
+- Devised testing automation plans for partial portion of full-stack code; identified, logged, & debugged 30+ software issues. Configured
+the content by implementing Java-based release-capable Adobe Experience Manager components, templates, and dialogs.
