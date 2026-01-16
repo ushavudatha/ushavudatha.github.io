@@ -1,13 +1,19 @@
 ---
-date: '2022-08-01'
-title: 'Graduate Teaching Assistant'
-company: 'Stony Brook University'
-range: 'Aug 2022 - Dec 2022'
-url: 'https://www.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE101'
+date: '2024-05-20'
+title: 'Associate (Software Development Engineer 2)'
+company: 'Goldman Sachs'
+range: 'May 2024 - Dec 2025'
+url: ''
 ---
 
-- Conducted collaborative and interactive sessions for 150 students, fostering their proficiency in Data Structures and Algorithms
+- Developed and integrated validation mechanisms into legacy Scala/Spark pipelines, reducing data discrepancies by 80% and minimizing reconciliation errors across over 1 million records processed daily, thereby strengthening data integrity.
 
-- Mentored various teams, facilitating the development of their problem-solving skills and achieving 95% satisfaction rate
+- Owned end-to-end design and implementation of high-volume ETL/ELT workflows within the Actimize financial crime platform’s Service-Oriented Architecture (SOA), leveraging Java and Gradle to orchestrate the processing of over 200,000 daily transactions.
 
-- Maintained a dedicated website with research materials and resources, catered to both technical and non-technical audiences
+- Streamlined upstream reporting of intermediary-facilitated transactions by integrating it into a Java-based workflow, minimizing manual review for ˜2,500 payments/day, while enhancing data consistency across payment systems.
+
+- Implemented automated unit tests with JUnit/Mockito across over 12 critical Java modules, enforced JaCoCo coverage and test quality gates in GitLab CI/CD pipelines, catching over 200 untested edge cases weekly and minimizing production downtime.
+
+- Engineered Oracle SQL to manage custom attributes, and implement error handling for TBs of transactional data.
+
+- Built Java-driven data reconciliation checks with SQL validations to ensure completeness and correctness across processing stages, safeguarding accuracy for 1+ million of daily records
