@@ -6,7 +6,7 @@
 
   - source ~/.nvm/nvm.sh
 
-  - nvm install node (version 16)
+  - nvm install node (version 18)
 
   - npm install -g yarn
 
