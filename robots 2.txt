@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://ushavudatha.github.io/sitemap-index.xml
+Host: https://ushavudatha.github.io
