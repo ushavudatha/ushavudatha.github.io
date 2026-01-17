@@ -14,8 +14,6 @@
 
   - npm install -g gatsby-cli
 
-  - npm install
-
   - git add .
 
   - git commit -am "changes"
