@@ -7,13 +7,16 @@ skills:
   - Spring boot
   - Microservices
   - Hibernate
-  - C/C++
-  - D3.js
+  - Scala
+  - Spark
+  - Iceberg
   - SQL
   - Scrum
 ---
 
 I enjoy on working with cutting-edge technologies, diving into the exciting realms of Competitive Programming, JAVA, Python. It's like unraveling a never-ending mystery, and I absolutely love it!
+
+Currently an Associate at Goldman Sachs, building and owning large-scale, production-grade data systems in a highly regulated fintech and compliance environment. Experienced in Spark/Scala, Java, SQL, and Apache Iceberg, delivering governed, reliable pipelines processing 1M+ records daily with strong emphasis on code quality and data integrity.
 
 I've also been recognized on a national level for my technical skills, securing top honors in esteemed technical symposiums. Oh, and let me tell you a little secret - I was crowned the top performer in [HackwithINFY'20](https://www.infosys.com/careers/hackwithinfy/2020.html), competing among an astounding 150,000 students!
 

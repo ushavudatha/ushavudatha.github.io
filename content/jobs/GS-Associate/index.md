@@ -1,6 +1,6 @@
 ---
 date: '2026-01-01'
-title: 'Analyst (Software Development Engineer)'
+title: 'Associate (Software Development Engineer 2)'
 company: 'Goldman Sachs'
 range: 'Jan 2026 - Present'
 url: ''

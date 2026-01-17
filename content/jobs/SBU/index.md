@@ -1,19 +1,13 @@
 ---
-date: '2024-05-20'
-title: 'Associate (Software Development Engineer 2)'
-company: 'Goldman Sachs'
-range: 'May 2024 - Dec 2025'
+date: '2023-07-01'
+title: 'Software Engineer'
+company: 'Stony Brook University'
+range: 'July 2023 - May 2024'
 url: ''
 ---
 
-- Developed and integrated validation mechanisms into legacy Scala/Spark pipelines, reducing data discrepancies by 80% and minimizing reconciliation errors across over 1 million records processed daily, thereby strengthening data integrity.
+- Optimized multiple REST API services within a microservices architecture, resulting in a 20% improvement in shipping carrier availability across the United States, Europe, and Asia.
 
-- Owned end-to-end design and implementation of high-volume ETL/ELT workflows within the Actimize financial crime platform’s Service-Oriented Architecture (SOA), leveraging Java and Gradle to orchestrate the processing of over 200,000 daily transactions.
+- Implemented scalable data storage on Amazon S3 for efficient organization and tracking of diverse data sources. Realized a 50% improvement in data visualization capabilities, enabling more informed decision-making and insights into Selling patterns.
 
-- Streamlined upstream reporting of intermediary-facilitated transactions by integrating it into a Java-based workflow, minimizing manual review for ˜2,500 payments/day, while enhancing data consistency across payment systems.
-
-- Implemented automated unit tests with JUnit/Mockito across over 12 critical Java modules, enforced JaCoCo coverage and test quality gates in GitLab CI/CD pipelines, catching over 200 untested edge cases weekly and minimizing production downtime.
-
-- Engineered Oracle SQL to manage custom attributes, and implement error handling for TBs of transactional data.
-
-- Built Java-driven data reconciliation checks with SQL validations to ensure completeness and correctness across processing stages, safeguarding accuracy for 1+ million of daily records
+- Implemented Amazon CloudWatch metrics and alerts, cutting service downtime by 15% for Merchant Shipping while ensuring rapid issue detection.
